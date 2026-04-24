@@ -147,6 +147,6 @@ This bot is useful for anyone who is learning to invest and feels overwhelmed by
 
 ---
 
-Live demo: [Add your Hugging Face Spaces link here]
+Live demo:(https://huggingface.co/spaces/salsburysteaks/stock-research-chatbot)
 
 Not financial advice. Data may be delayed. Built with LangChain and Groq.
