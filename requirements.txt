@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+yfinance
+gradio
+requests
+python-dotenv
